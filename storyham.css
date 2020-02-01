@@ -1,9 +1,6 @@
 @font-face {
   font-family: 'NextEnglish';
-  src: url('https://raw.githubusercontent.com/Dev-Des/chizeh/master/Vazir.eot');
-  src: url('https://raw.githubusercontent.com/Dev-Des/chizeh/master/Vazir.eot?#iefix') format('embedded-opentype'),
-       url('https://raw.githubusercontent.com/Dev-Des/chizeh/master/Vazir.woff2') format('woff2'),
-       url('https://raw.githubusercontent.com/Dev-Des/chizeh/master/Vazir.woff') format('woff'),
-       url('https://raw.githubusercontent.com/Dev-Des/chizeh/master/Vazir.ttf') format('truetype');
+  src: url('https://raw.githubusercontent.com/Dev-Des/storyham/master/NextEnglish-Regular.woff') format('woff'),
+       url('https://raw.githubusercontent.com/Dev-Des/storyham/master/NextEnglish-Regular.ttf') format('truetype');
   font-weight: normal;
 }
